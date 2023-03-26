@@ -20,3 +20,8 @@ def create_config() -> bool:
         return True
     except:
         return False
+    
+def get_data() -> dict: 
+    file = open("./config.json")
+    
+    return json.load(file)

@@ -1,5 +1,6 @@
 {
     "token": "", 
+    "guild_id": 1048966284529893386,
     "debugging": true,
 
     "vanities": ["discord", "vanity", "sniper"]

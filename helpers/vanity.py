@@ -2,7 +2,7 @@ import httpx
 
 from typing import Union
 
-class vanity: 
+class vanity_client: 
     def __init__(self) -> None:
         pass
     

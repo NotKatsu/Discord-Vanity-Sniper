@@ -11,6 +11,7 @@ def create_config() -> bool:
         
         file.write("""{
     "token": "", 
+    "guild_id": ,
     "debugging": true,
 
     "vanities": ["discord", "vanity", "sniper"]
